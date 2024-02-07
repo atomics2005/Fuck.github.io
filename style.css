@@ -94,7 +94,7 @@ div.beloved:after {
   display: flex;
   position: absolute;
   white-space: pre;
-  content: "Chal nikal chudal \a Love";
+  content: "Chal nikal \a chudal";
 
   text-align: center;
   line-height: 1.1;
